@@ -1,5 +1,4 @@
 import numpy as np
-
 #Importation du module image
 import matplotlib.image as mpimg
 #Importation du module pyplot
