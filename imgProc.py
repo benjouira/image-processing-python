@@ -28,3 +28,5 @@ print(img.shape[0]*img.shape[1])
 # Dimensions
 print(img.shape)
 
+# Dimensions
+print(img.shape)
